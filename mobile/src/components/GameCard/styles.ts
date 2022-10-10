@@ -11,6 +11,8 @@ export const styles = StyleSheet.create({
         justifyContent: 'flex-end',
         borderRadius: 8,
         overflow: 'hidden',
+        borderWidth: 1,
+        borderColor: THEME.COLORS.PRIMARY,
     },
     footer: {
         width: '100%',
